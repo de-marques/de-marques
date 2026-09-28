@@ -1,1 +1,2 @@
-tedste
+Data Analyst at Ouro Preto Investimentos, where I work with Business Intelligence, Python process automation, and data integration between internal systems. I'm looking to specialize in Data Science with a focus on Machine Learning, combining my statistical and analytical foundation with the hands-on experience I've built in SQL, BI, and data architecture. I'm currently preparing for Microsoft certifications in data and artificial intelligence (DP-900, followed by AI-300) as part of my path toward a Machine Learning Engineer role. I'm driven by continuous learning and by using data to solve real business problems.
+
